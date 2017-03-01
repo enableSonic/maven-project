@@ -12,9 +12,8 @@ public class Greeter {
 
   }
 
-  /*
-  	* for Someone
-  	*
+  /**
+  * This is for Someone
   */
 
   public String greet(final String someone) {
